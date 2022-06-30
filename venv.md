@@ -32,7 +32,7 @@ ls env/lib
 You should see your env environments Python version:
 
 ```sh
-python3.10.5
+python3.x.x
 ```
 
 ## _Activate Your Virtual Environment_
