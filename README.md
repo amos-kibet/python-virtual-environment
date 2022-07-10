@@ -17,7 +17,7 @@ mkdir ~/python-environments && cd ~/python-environments
 Create a Python virtual environment. By default, virtualenv attempts to use the Python 2.5 interpreter to create a new environment. You can use the --python option to tell virtualenv to use your system’s Python interpreter. Replace env with the name you would like to assign to your virtual environment:
 
 ```sh
-virtualenv --python=python3 env
+virtualenv env
 
 ```
 
